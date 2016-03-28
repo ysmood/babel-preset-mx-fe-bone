@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2016",
-  "version": "6.0.8",
+  "version": "6.0.9",
   "description": "es2016 preset",
   "main": "index.js",
   "scripts": {},
