@@ -24,6 +24,7 @@ module.exports = {
     require("babel-plugin-transform-runtime"),
     require("babel-plugin-transform-react-jsx"),
     require("babel-plugin-syntax-trailing-function-commas"),
-    require("babel-plugin-transform-object-rest-spread")
+    require("babel-plugin-transform-object-rest-spread"),
+    require("babel-plugin-transform-class-properties")
   ]
 };
